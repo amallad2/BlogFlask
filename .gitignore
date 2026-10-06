@@ -1,6 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
 .idea/
 .vscode/
-__pycache__/
 dist/
 .coverage*
 htmlcov/
